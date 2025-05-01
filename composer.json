@@ -17,10 +17,7 @@
 		"issues": "https://github.com/smarty-gettext/smarty-gettext/issues"
 	},
 	"autoload": {
-		"files": [
-			"block.t.php",
-			"function.locale.php"
-		]
+		"files": ["bootstrap.php"]
 	},
 	"autoload-dev": {
 		"classmap": [ "tests" ]
