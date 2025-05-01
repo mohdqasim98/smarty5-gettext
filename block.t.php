@@ -1,4 +1,5 @@
 <?php
+use Smarty\Template;
 
 /*
  * This file is part of the smarty-gettext package.
